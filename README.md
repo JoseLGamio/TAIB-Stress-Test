@@ -52,4 +52,4 @@ Commercial licensing may be negotiated separately.
 
 ---
 
-© 2025 — José Luis Gamio
+© 2025 — José Luis Gamio.
