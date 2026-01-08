@@ -35,7 +35,9 @@ The theoretical foundations of TAIB are presented in the following paper:
 
 **Applied Base Information Theory (TAIB): Operational Modeling of Information Flow in Cosmological and Quantum Systems**  
 Zenodo:(https://doi.org/10.5281/zenodo.18171045)
-Academia.edu: (https://www.academia.edu/145827156/The_Bus_Information_and_Latency_Theory_TAIB_An_Architectural_Reformulation_of_Physical_Dynamics)
+
+Academia.edu(https://www.academia.edu/145827156/The_Bus_Information_and_Latency_Theory_TAIB_An_Architectural_Reformulation_of_Physical_Dynamics)
+
 This repository supports the theoretical paper available on Zenodo and Academia.edu.  
 It provides the executable and data-level complement required for independent verification and peer audit.
 
