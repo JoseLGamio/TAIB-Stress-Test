@@ -1,12 +1,12 @@
+
+import numpy as np
+import matplotlib.pyplot as plt
+import csv
 # ======================================================
 # Reference:
 # Applied Base Information Theory (TAIB)
 # Zenodo DOI: https://doi.org/10.5281/zenodo.18171045
 # ======================================================
-import numpy as np
-import matplotlib.pyplot as plt
-import csv
-
 # ------------------------------------------------------
 # Plot configuration (paper-oriented)
 # ------------------------------------------------------
@@ -148,4 +148,5 @@ def run_qubit_test():
         sigma = f / a
 
         record_row("QUBITS", n, N_
+
 
